@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://michaelfeng1101.github.io</id>
+    <title>Michael Feng</title>
+    <updated>2023-11-29T17:22:21.562Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://michaelfeng1101.github.io"/>
+    <link rel="self" href="https://michaelfeng1101.github.io/atom.xml"/>
+    <subtitle>Strong determination to succeed</subtitle>
+    <logo>https://michaelfeng1101.github.io/images/avatar.png</logo>
+    <icon>https://michaelfeng1101.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, Michael Feng</rights>
+    <entry>
+        <title type="html"><![CDATA[About me（click me）]]></title>
+        <id>https://michaelfeng1101.github.io/post/about-me/</id>
+        <link href="https://michaelfeng1101.github.io/post/about-me/">
+        </link>
+        <updated>2023-11-28T19:04:50.000Z</updated>
+        <content type="html"><![CDATA[<p>Hi, My name is Feng ZeZheng and my english name is Michael. I am 20 years old. I was born in Guangzhou. l graduated from Guangwai English School in 2021. Now, l am studying in Macao university of science and technology. My undergraduate major is bachelor of business administration. l am very interested in learning this major and finding lots of business knowledge</p>
+<p>I am open-minded, quick in thought and very fond of history. ln my spare time, I have broad interests like many other youngers. l prefer to play different kinds of competitions especially those about basketball and golf. Frequently, l love to travel around the world with my family every summer vacation. During the vacation, l am able to relax myself anthinking of the meaning about life.</p>
+]]></content>
+    </entry>
+</feed>
